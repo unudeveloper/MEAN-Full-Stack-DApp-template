@@ -12,7 +12,7 @@
 
 *note: This template is based on the meanjs project found [here](https://github.com/meanjs/mean)
 
-## Deployment ##
+## Deployment ## 
 
 ### Cloning The GitHub Repository
 The recommended way to get this template is to use git to directly clone the the repository:
