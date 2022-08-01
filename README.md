@@ -1,16 +1,13 @@
-<p align="center">
-  <img 
-    src="http://res.cloudinary.com/vidsy/image/upload/v1503160820/CoZ_Icon_DARKBLUE_200x178px_oq0gxm.png" 
-    width="125px;">
-</p>
-
-<h1 align="center">dApp Template: MEAN</h1>
+<h1 align="center">DApp Template: MEAN</h1>
 
 <p align="center">
   A dApp template for the <b>NEO</b> blockchain built on the MEAN stack.
 </p>
 
-*note: This template is based on the meanjs project found [here](https://github.com/meanjs/mean)
+## About this
+This template is based on the meanjs project found.
+Here, I implemented this project with MEAN Full Stack.
+This will be helpful to learn Angular.
 
 ## Deployment ## 
 
