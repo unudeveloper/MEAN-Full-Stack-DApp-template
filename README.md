@@ -184,6 +184,7 @@ $ docker run -p 3000:3000 --link db:db_1 mean
 
 ## Getting Started With MEAN.JS
 You have your application running, but there is a lot of stuff to understand. We recommend you go over the [Official Documentation](http://meanjs.org/docs.html).
+
 In the docs we'll try to explain both general concepts of MEAN components and give you some guidelines to help you improve your development process. We tried covering as many aspects as possible, and will keep it updated by your request. You can also help us develop and improve the documentation by checking out the *gh-pages* branch of this repository.
 
 ## Community
